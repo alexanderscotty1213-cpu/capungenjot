@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alexanderscotty1213-cpu.github.io/capungenjot/sitemap.xml
+Sitemap:https://alexanderscotty1213-cpu.github.io/capungenjot/sitemap.xml
