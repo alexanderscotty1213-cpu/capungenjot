@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://capungenjot.chelsea098765r.workers.dev/sitemap.xml
